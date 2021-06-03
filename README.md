@@ -1,4 +1,4 @@
-# wandering-robot-controller
+# Wandering Robot Controller
 A project undertaken as part of my COM596 module of Intelligent Robotics in 20/21. 
 Repo contains robot controller and the environment used in the simulation of the robot using the Player/Stage simulator on a Linux Ubuntu VM.
 
